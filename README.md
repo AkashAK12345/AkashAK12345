@@ -14,7 +14,7 @@ My interest lies in building **practical ML solutions**, not just training model
 ---
 
 ## Skills
-- Programming: Python  
+- Programming: Java, Python and SQL  
 - Machine Learning: Supervised learning, classification, model evaluation  
 - Libraries: NumPy, Pandas, scikit-learn  
 - Backend & Deployment: FastAPI, Streamlit (basic)  
