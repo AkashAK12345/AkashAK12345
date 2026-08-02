@@ -22,30 +22,6 @@ My interest lies in building **practical ML solutions**, not just training model
 
 ---
 
-## Featured Projects
-
-### 🔹 Customer Churn Prediction
-End-to-end machine learning project to identify customers likely to leave a service.
-- Data preprocessing and feature engineering
-- Handled class imbalance using SMOTE
-- Trained and evaluated models using Logistic Regression and XGBoost
-- Evaluated performance using ROC-AUC, precision, recall, and F1-score
-
-🔗 Repository: https://github.com/AkashAK12345/customer-churn-prediction
-
----
-
-### 🔹 Agentic Resume Screening System
-AI-powered resume screening system built with FastAPI and LLM-based agents.
-- Extracts structured information from resumes
-- Evaluates candidates against job descriptions
-- Returns a structured match score and reasoning
-- Designed with a modular backend architecture
-
-🔗 Repository: https://github.com/AkashAK12345/agentic-resume-screening
-
----
-
 ## What I’m Currently Working On
 - Strengthening machine learning fundamentals
 - Improving project documentation and evaluation depth
